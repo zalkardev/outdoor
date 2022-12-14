@@ -1,0 +1,429 @@
+@media (max-width: 1440px) {
+      .container {
+          width: 90%;
+          margin: 0 auto;
+      }
+    .offer-nav img {
+        width: 80%;
+    }
+    .about {
+        width: 100%;
+    }
+}
+@media (max-width: 1200px) {
+
+}
+@media (max-width: 1024px) {
+    .header-title a {
+        padding: 0 16px;
+    }
+    .about {
+    flex-direction: column-reverse;
+    }
+    .about-title {
+        padding: 25px 0;
+    }
+    .block-naw {
+        bottom: 43px;
+        width: 760px;
+        height: 45px;
+    }
+}
+@media (max-width: 992px) {
+       .header-title  {
+           display: none;
+       }
+    .hero {
+        padding: 115px;
+    }
+    .about-title p {
+        width: 349px;
+    }
+}
+@media (max-width: 768px) {
+    .about img {
+        width: 50%;
+    }
+    .about-title p {
+        width: 329px;
+        line-height: 20px;
+    }
+    .product-nav {
+        width: 257px;
+    }
+    .store-blocks {
+        flex-direction: column-reverse;
+    }
+    .magazine img {
+        width: 40%;
+    }
+    .ofer-img img {
+        width: 50%;
+    }
+    input {
+        width: 339px;
+    }
+}
+@media (max-width: 576px) {
+    .hero h1 {
+        font-size: 36px;
+    }
+    .hero h3 {
+        font-size: 12px;
+    }
+    .hero p {
+        font-size: 15px;
+        line-height: 22px;
+    }
+    .product-title h1 {
+        font-size: 30px;
+    }
+    .product-title p {
+        font-size: 13px;
+    }
+
+    .about-title h3 {
+        font-size: 11px;
+    }
+    .about-title h1 {
+        font-size: 37px;
+        line-height: 48px;
+    }
+    .about-title p {
+        width: 234px;
+        font-size: 13px;
+        line-height: 14px;
+    }
+    .block-naw {
+        width: 382px;
+        height: 38px;
+    }
+    .block-naw a {
+        margin: 0 9px;
+        font-size: 6px;
+    }
+    .offer-title h1 {
+        font-size: 30px;
+        line-height: 36px;
+    }
+    .offer-title p {
+        font-size: 10px;
+        line-height: 15px;
+    }
+    .offer-nav p {
+        font-size: 11px;
+        line-height: 16px;
+    }
+    .offer-img h4 {
+        font-size: 10px;
+    }
+    .offer-img h6 {
+        font-size: 9px;
+    }
+    .magazine-title p {
+        width: 356px;
+    }
+    .offer a {
+        font-size: 11px;
+    }
+    .footer-nav h4 {
+        font-size: 10px;
+    }
+    .footer-nav a {
+        margin: 2px 2px;
+        font-size: 8px;
+    }
+    .footer-naw h4 {
+        font-size: 10px;
+    }
+    .footer-naw a {
+        margin: 2px 2px;
+        font-size: 8px;
+    }
+    .footer-nov h4 {
+        font-size: 10px;
+    }
+    .footer-nov a {
+        margin: 2px 2px;
+        font-size: 8px;
+    }
+    .footer-now h4 {
+        font-size: 10px;
+    }
+    .footer-now p {
+        padding: 12px;
+        font-weight: 400;
+        font-size: 11px;
+        line-height: 17px;
+    }
+    input {
+        width: 228px;
+    }
+    .footer-now button {
+        bottom: 107px;
+        right: 106px;
+        width: 69px;
+        height: 36px;
+    }
+    .footer-foot h5 {
+        font-size: 10px;
+    }
+
+}
+@media (max-width: 451px) {
+    .hero {
+        padding: 26px;
+
+    }
+    .about-title h3 {
+        font-size: 9px;
+    }
+    .about-title h1 {
+        font-size: 25px;
+        line-height: 30px;
+    }
+    .about-title p {
+        width: 177px;
+        font-size: 9px;
+        line-height: 10px;
+    }
+    .about-title a {
+        font-size: 10px;
+    }
+    .product-title h3 {
+        font-size: 11px;
+    }
+    .product-title h1 {
+        font-size: 30px;
+    }
+    .product-title p {
+        font-size: 10px;
+        line-height: 15px;
+    }
+    .product-nav {
+        width: 196px;
+    }
+    .product-nav h1 {
+        font-size: 14px;
+    }
+    .product-nav p {
+        font-size: 10px;
+        line-height: 14px;
+    }
+    .store-title h3 {
+        font-size: 11px;
+    }
+    .store-title h1 {
+        font-size: 31px;
+    }
+    .store-title p {
+        font-size: 10px;
+        line-height: 16px;
+    }
+    .magazine-title h3 {
+        font-size: 10px;
+    }
+    .magazine-title h1 {
+        margin: 10px 0;
+        font-size: 27px;
+        line-height: 20px;
+    }
+    .magazine-title p {
+        margin: 10px 0;
+        width: 244px;
+        font-size: 10px;
+        line-height: 11px;
+    }
+    .block-naw {
+        width: 323px;
+    }
+    .block-naw a {
+        font-size: 8px;
+    }
+    .store-block {
+        width: 284px;
+    }
+    .block-title h3 {
+        font-size: 10px;
+    }
+    .block-title h1 {
+        margin: 7px 0;
+        font-size: 28px;
+    }
+    .block-title p {
+        font-size: 10px;
+        line-height: 15px;
+        padding: 4px;
+    }
+    .footer-now p {
+        padding: 2px;
+        font-size: 10px;
+        line-height: 14px;
+    }
+    input {
+        width: 174px;
+        height: 38px;
+    }
+    .footer-now button {
+        bottom: 136px;
+        right: 65px;
+        width: 53px;
+        height: 31px;
+        font-size: 11px;
+    }
+    .ionicon, svg {
+        height: 90%;
+    }
+    .footer-title {
+        flex-wrap: wrap;
+    }
+    .footer-now button {
+        left: 134px;
+        bottom: 130px;
+    }
+}
+@media (max-width: 400px) {
+    .footer-now button {
+        right: 31px;
+    }
+    .product-nav {
+        width: 176px;
+    }
+    .offer-img h4 {
+        font-size: 7px;
+    }
+    .offer-img h6 {
+        font-size: 6px;
+    }
+    .offer a {
+        font-size: 8px;
+    }
+    .block-naw a {
+        font-size: 5px;
+    }
+    .block-naw a ion-icon {
+        font-size: 12px;
+        color: #FFFFFF;
+    }
+    .footer-title {
+        flex-wrap: wrap;
+    }
+    .footer-now button {
+        left: 130px;
+        bottom: 130px;
+    }
+}
+@media (max-width: 376px) {
+    .hero h3 {
+        font-size: 9px;
+    }
+    .hero h1 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .hero p {
+        font-size: 10px;
+        line-height: 18px;
+    }
+    .about-title h1 {
+        font-size: 20px;
+        line-height: 25px;
+    }
+    .about-title p {
+        width: 150px;
+        font-size: 7px;
+        line-height: 7px;
+    }
+    .product-nav {
+        width: 161px;
+    }
+    .block-naw a {
+        font-size: 7px;
+    }
+    .block-naw {
+        width: 298px;
+    }
+    .offer-title h3 {
+        font-size: 10px;
+    }
+    .offer-title h1 {
+        font-size: 21px;
+        line-height: 32px;
+        margin: 5px 0;
+    }
+    .offer-title p {
+        padding: 1px 0;
+        font-size: 10px;
+        line-height: 12px;
+    }
+    .offer-nav p {
+        font-size: 12px;
+        line-height: 15px;
+    }
+    .offer-img h4 {
+        font-size: 8px;
+    }
+    .offer-img h6 {
+        font-size: 8px;
+    }
+    .offer a {
+        padding: 15px 0;
+        font-size: 7px;
+    }
+    .magazine-title p {
+        margin: 10px 0;
+        width: 193px;
+        font-size: 8px;
+        line-height: 9px;
+    }
+    input {
+        width: 164px;
+        height: 25px;
+    }
+    .footer-now button {
+        bottom: 136px;
+        right: 13px;
+        width: 41px;
+        height: 18px;
+        font-size: 9px;
+    }
+.footer-title {
+    flex-wrap: wrap;
+}
+.footer-now button {
+    left: 135px;
+    bottom: 130px;
+}
+}
+@media (max-width: 320px) {
+    input {
+        width: 116px;
+        height: 25px;
+    }
+    .footer-now button {
+        bottom: 131px;
+    }
+    .product-nav {
+        width: 276px;
+    }
+    .block-naw {
+        width: 204px;
+    }
+    .block-naw a {
+        margin: 0 1px;
+        font-size: 4px;
+    }
+    .block-title h1 {
+        font-size: 17px;
+    }
+    .block-title p {
+        font-size: 7px;
+        line-height: 11px;
+    }
+    .footer-title {
+        flex-wrap: wrap;
+    }
+    .footer-now button {
+        left: 84px;
+    }
+}
